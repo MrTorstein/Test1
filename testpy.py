@@ -10,3 +10,5 @@ class Noe():
 if __name__ == "__main__":
   A = Noe("Kalle")
   print(A.kalle, A.bjarne)
+
+#Dette er bare en enkel test
